@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @programmer-umer
+- 👋 Hi, I’m Muhammad Umer Asif.
 - 👀 I’m interested in python and web dev.
 - 🌱 I’m currently learning advanced programming concepts.
 - 💞️ I’m looking to collaborate on to python programmers and web developers.
